@@ -5,7 +5,7 @@ Usage:
 * SSH into master node
 * Run `./setup.sh` from this repo
 
-Here is a sample usage:
+Here is example usage:
 ```
 sozercan@k8s-master-34509323-0:~$ kubectl get nodes
 NAME                    STATUS                     AGE
