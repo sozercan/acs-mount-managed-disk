@@ -1,4 +1,4 @@
-This script automatically partitions, formats, mounts (to `/media/data1/`, `/media/data2/` etc) and adds to `/etc/fstab` any attached managed disks in every agent node. All credits to [trentmswanson](https://gist.github.com/trentmswanson/9c22bb71182e982bd36f) for `autopart.sh`
+This script automatically partitions, formats, mounts (to `/media/data1/`, `/media/data2/` etc) and adds to `/etc/fstab` any pre-attached managed disks in every agent node. All credits to [trentmswanson](https://gist.github.com/trentmswanson/9c22bb71182e982bd36f) for `autopart.sh`
 
 Usage:
 * Copy ssh key into master node
