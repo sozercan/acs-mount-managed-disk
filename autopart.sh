@@ -3,7 +3,7 @@
 # An set of disks to ignore from partitioning and formatting
 BLACKLIST="/dev/sda|/dev/sdb"
 # Base directory to hold the data* files
-DATA_BASE="/mnt"
+DATA_BASE="/media"
 
 usage() {
     echo "Usage: $(basename $0) <new disk>"
