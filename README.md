@@ -1,4 +1,4 @@
-This script automatically partitions, formats, mounts and adds to `/etc/fstab` any attached managed disks to `/mnt/data1/`, `/mnt/data2` etc.
+This script automatically partitions, formats, mounts and adds to `/etc/fstab` any attached managed disks to `/mnt/data1/`, `/mnt/data2/` etc.
 
 Usage:
 * Copy ssh key into master node
